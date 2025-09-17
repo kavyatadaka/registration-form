@@ -6,6 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### 1️⃣ Home Page  
+![Home Page](images/home.png "Home Page Screenshot")  
+This is the home page of the application where users can navigate to all features.
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
